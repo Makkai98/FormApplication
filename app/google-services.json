@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037680768975",
+    "firebase_url": "https://formapp-4b493.firebaseio.com",
+    "project_id": "formapp-4b493",
+    "storage_bucket": "formapp-4b493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037680768975:android:5d8e0770d510dbf73684ba",
+        "android_client_info": {
+          "package_name": "com.example.formapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037680768975-63ovvci49m8pvrn1bli2qt8fki4r3e38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formapp",
+            "certificate_hash": "d49ab9434b48dad55607dbfe8da1e579910d3944"
+          }
+        },
+        {
+          "client_id": "1037680768975-ecq9t0vlruecktnbvujvhledeacr1f4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0lr2Bg-WjR2X-fmKibWfOzDsrCu_yEik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037680768975-ecq9t0vlruecktnbvujvhledeacr1f4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
